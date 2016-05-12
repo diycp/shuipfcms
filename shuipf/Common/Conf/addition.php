@@ -1,7 +1,7 @@
 <?php 
  return array (
-  'CLOUD_USERNAME' => 'ovelingm',
-  'CLOUD_PASSWORD' => 'qiongyao',
+  'CLOUD_USERNAME' => '',
+  'CLOUD_PASSWORD' => '',
   'COOKIE_EXPIRE' => '3600',
   'COOKIE_DOMAIN' => '',
   'COOKIE_PATH' => '/',
